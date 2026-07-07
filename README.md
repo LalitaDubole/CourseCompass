@@ -91,9 +91,6 @@ Then open `http://127.0.0.1:8000/`
 
 ## What I learned building this
 
-## What I learned building this
-
-## What I learned building this
 
 First problem I hit was `python` not working in PowerShell at all — turns out I had to actually install it from python.org and tick "Add to PATH", since the default Windows shortcut just tries to open the Microsoft Store lol.
 
